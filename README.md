@@ -1,2 +1,3 @@
 # My_Practices_on_PyTorch
-coming soon....
+
+on it... updating often
